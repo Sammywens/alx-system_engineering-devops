@@ -1,3 +1,4 @@
+
 <img align="center" alt="Coding" width="600" height="400" src=https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/294/pQ9YzVY.gif>
 
 ## A Post Moterm on server failure
@@ -29,7 +30,7 @@ Corrective and preventative measures:
  • Provide training to all engineers and staff on security best practices to minimize the risk of human error causing a security breach.
 
 # TODO:
- • Patch all servers running outdated software.
+ • Update all Outdated Firmwire and device drivers on the  servers.
  • Set up monitoring alerts for high CPU usage on all servers.
  • Conduct a security audit of all servers and implement any necessary changes.
  • Schedule regular security training sessions for all engineers and staff.
