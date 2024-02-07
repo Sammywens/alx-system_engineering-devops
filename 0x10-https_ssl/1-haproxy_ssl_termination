@@ -39,11 +39,11 @@ frontend  http_front-http
         http-request set-header X-Forwarded-Proto http
         default_backend http_back
 frontend  http_front-https
-        bind *:443 ssl crt /etc/letsencrypt/live/www.stonegrowthcompany.tech/fullchain.pem
+        bind *:443 ssl crt /etc/letsencrypt/live/www.megawens.tech/fullchain.pem
         http-request set-header X-Forwarded-Proto https
         default_backend http_back
 backend http_back
         redirect scheme https if ! { ssl_fc }
         balance roundrobin
-        server 149568-web-01 34.207.190.113:80 check
-        server 149568-web-02 100.25.191.191:80 check
+        server 149562-web-01 18.234.169.242:80 check
+        server 149562-web-02 100.25.199.112:80 check
