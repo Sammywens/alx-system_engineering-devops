@@ -10,7 +10,7 @@
 - Tasks:clipboard:
 - Built with:hammer:
 - Resources:books:
-- Author:black_nib:
+- Author:sammywens:
  
 ---
  
@@ -41,7 +41,7 @@ Follow the following instructions to get a copy of the program and run in your l
  
 * Clone the following repository.
 ```
-https://github.com/PabloYepes27/holberton-system_engineering-devops.git
+https://github.com/sammywens/alx-system_engineering-devops.git
 ```
 ---
  
@@ -83,6 +83,5 @@ https://github.com/PabloYepes27/holberton-system_engineering-devops.git
  
 ## Author:black_nib:
  
-* **Jaaystones**
- - [GitHub](https://github.com/Jaaystones)
- - [Twitter](https://twitter.com/Jaaystones)
+* **Sammywens**
+ - [GitHub](https://github.com/Sammywens)
