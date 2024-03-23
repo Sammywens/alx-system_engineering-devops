@@ -45,5 +45,5 @@ frontend  http_front-https
 backend http_back
         redirect scheme https if ! { ssl_fc }
         balance roundrobin
-        server 149562-web-01 18.234.169.242:80 check
-        server 149562-web-02 100.25.199.112:80 check
+        server 149562-web-01 54.237.209.240:80 check
+        server 149562-web-02 54.198.28.227:80 check
